@@ -13,7 +13,7 @@ const Info = () => {
           className="img-fluid rounded-circle mb-4" 
           style={{ width: '8rem', height: '8rem' }} 
         />
-        <h2 className="h4 font-weight-bold">Idin Iskandar S.kom Mcs</h2>
+        <h2 className="h4 font-weight-bold">Idin Iskandar S.kom </h2>
         <p className="text-muted mb-4">Developer Web</p>
         <p className="text-center mb-4">
           Selamat datang di toko kami! Kami menyediakan berbagai macam produk berkualitas tinggi dengan harga terjangkau. 
