@@ -8,7 +8,7 @@ const Info = () => {
       <h1 className="display-4 mb-4">Info Toko</h1>
       <div className="d-flex flex-column align-items-center">
         <img 
-          src="https://asw-psi.vercel.app/static/media/idincuy.9511c2489191a858eb96.jpg" 
+          src="https://raw.githubusercontent.com/idincodingweb/netflix-clone/refs/heads/main/src/images/FB_IMG_1733158331408.jpg" 
           alt="Logo" 
           className="img-fluid rounded-circle mb-4" 
           style={{ width: '8rem', height: '8rem' }} 
